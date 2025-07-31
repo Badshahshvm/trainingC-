@@ -13,7 +13,7 @@ namespace Day3
         {
             //Initializatio
             int[] a = new int[5];
-            int[] b = new int[5] { 1, 2, 3, 4, 5 };
+            int[] b = new int[5] { 1, 2, 3, 4, 5 }
             int[] c = { 1, 2, 3, 45 };
             //insert a elemnt in an empty array usinh user input
             for(int i=0;i<a.Length;i++)
